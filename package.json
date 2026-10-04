@@ -1,0 +1,17 @@
+{
+  "name": "zhishan-tianggong",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "install:all": "npm ci --prefix red-koala && npm ci --prefix sample-provider",
+    "dev": "npm run dev --prefix red-koala",
+    "build": "npm run build --prefix red-koala",
+    "test": "npm test --prefix red-koala && npm test --prefix sample-provider",
+    "typecheck": "npm run demo:generate --prefix red-koala && npm run typecheck --prefix red-koala",
+    "check:release": "node scripts/check-release.mjs"
+  }
+}
