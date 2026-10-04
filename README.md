@@ -84,6 +84,6 @@ docs/               开发指南、验证记录与产品展示
 
 ## 所有权与使用
 
-作品署名 **天工**，仓库由 [liiiyiiixiii](https://github.com/liiiyiiixiii) 维护。原创内容由其合法权利人保留权利；公开可见不表示授予额外复用或商业许可。GitHub 条款赋予的浏览、fork 等权限及第三方原有许可证不受本声明影响。
+作品署名 **天工**，本项目为团队共同作品，仓库由 [chujieHong](https://github.com/chujieHong) 维护。原创内容由其合法权利人保留权利；公开可见不表示授予额外复用或商业许可。GitHub 条款赋予的浏览、fork 等权限及第三方原有许可证不受本声明影响。
 
 [权利保留声明](LICENSE) · [作品署名](NOTICE.md) · [第三方声明](THIRD_PARTY_NOTICES.md)。本次公开不是版权登记或权属认定；GitHub 对公开仓库许可的说明见 [官方文档](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)。
